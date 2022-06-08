@@ -1,6 +1,6 @@
 # Project-name
 
-> This is a morse code decoder built with ruby.
+> Add Description here.
 
 ## Getting Started
 
@@ -15,17 +15,12 @@ To get a local copy of the project, follow these steps:
  ```
 
 
-## Authors
+## Author
 
 👤 **Augusto Galindo**
 
 - GitHub: [@jsug9](https://github.com/jsug9)
 - LinkedIn: [Augusto Galindo](https://www.linkedin.com/in/augustogalindo/)
-
-👤 **Tafara Mafemba**
-
-- GitHub: [@tafaramafemba](https://github.com/tafaramafemba)
-- LinkedIn: [Tafara Mafemba](https://www.linkedin.com/in/tafara-mafemba)
 
 ## 🤝 Contributing
 
