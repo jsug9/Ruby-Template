@@ -11,7 +11,7 @@ To get a local copy of the project, follow these steps:
  git clone https://github.com/jsug9/Project-name
  ```
  ```
- cd portfolio
+ cd Project-name
  ```
 
 
